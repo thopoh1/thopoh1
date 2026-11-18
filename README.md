@@ -11,11 +11,16 @@ Pointlisten-Verwaltung, AreaFix sowie eine vollständige Web-Oberfläche mit For
 NetMail, Profilen und Admin-Panel. Kein `binkd`, kein `ifmail`, kein externer
 Tosser — alles nachvollziehbar in PHP.
 
-## Projekte
+## In Vorbereitung
 
-| Projekt | Beschreibung |
-|---|---|
-| [fidoweb-bbs](https://github.com/thopoh1/fidoweb-bbs) | FidoNet-BBS komplett in PHP — BinkP-Mailer, Tosser, Router, Echo-Boards, Web-UI |
+**FidoWeb BBS** — noch nicht veröffentlicht. Das Projekt läuft produktiv als
+Point, die erste öffentliche Version (MIT-Lizenz) kommt, sobald der Wechsel auf
+die eigene Node-Adresse durch ist und die Neuinstallation auf einem frischen
+Debian-12-Server sauber durchgelaufen ist. Ein Termin steht bewusst noch nicht
+fest.
+
+Wer vorher schon fragen oder mit testen will: NetMail an **2:240/7001**
+(aktuell 2:240/1120.7001).
 
 ## FidoNet
 
@@ -34,8 +39,3 @@ Net  : BinkP (Punkt 2:240/1120.7001)
 
 FidoNet-Technik, FTN-Protokolle (BinkP, Type-2/2+, AreaFix, TIC), PHP ohne
 Frameworks, Debian-Server, Retro-Mail-Systeme.
-
-## Kontakt
-
-Issues und Pull Requests im jeweiligen Projekt-Repository.
-NetMail an 2:240/7001 (sobald der Node-Status offiziell ist) oder 2:240/1120.7001.
