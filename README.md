@@ -3,6 +3,10 @@
 Zweiter Account von **Thomas Pohlmann** — hier entsteht die öffentliche Seite des
 FidoNet-Projekts **FidoWeb BBS**.
 
+<p align="center">
+  <img src="startseite.png" alt="Startseite der THoPoH Web BBS (Point-Modus)" width="820">
+</p>
+
 ## Worum es geht
 
 Eine FidoNet-BBS, die komplett in reinem PHP läuft: BinkP-Mailer (Client **und**
